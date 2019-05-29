@@ -5,7 +5,7 @@
 Following the results reported in this article:
   https://peerj.com/articles/2108/
 
-Had to use Python 2 to avoid complicated translation of numeric types in porting the needed librartis.
+Had to use Python 2 to avoid complicated translation of numeric types in porting the needed libraries.
 
 Had to do some simple conversion by hand (numpy is not accepting float as array index anymore) to install:
   https://github.com/bregmanstudio/BregmanToolkit
