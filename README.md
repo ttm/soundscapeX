@@ -8,7 +8,7 @@ Following the results reported in this article:
 Had to use Python 2 to avoid complicated translation of numeric types in porting the needed librartis.
 
 Had to do some simple conversion by hand (numpy is not accepting float as array index anymore) to install:
-  https://peerj.com/articles/2108/
+  https://github.com/bregmanstudio/BregmanToolkit
 
 And change
   from sklearn.decomposition import ProjectedGradientNMF
